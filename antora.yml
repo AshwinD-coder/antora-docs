@@ -1,0 +1,5 @@
+name: github-antora
+version: 1.0.0
+title: Github-antora
+nav:
+- modules/ROOT/nav.adoc
